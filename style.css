@@ -1,3 +1,7 @@
 .header{
   font-weight: bold;
 }
+
+.header h1{
+  color:red;
+}
